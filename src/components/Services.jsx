@@ -26,8 +26,6 @@ const WEBSITES = [
     tagline: 'A complete multi-page site for growing businesses.',
     features: [
       'Multiple pages (Home, About, Services, Contact)',
-      'Image / gallery sections',
-      'WhatsApp & contact integration',
       'API integration',
       'Modern UI/UX',
       'Fully responsive',
